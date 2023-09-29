@@ -1,0 +1,4 @@
+#!/usr/bin/bash
+
+world="World"
+echo "Hello, $world"
