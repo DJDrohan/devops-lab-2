@@ -1,4 +1,3 @@
 #!/usr/bin/bash
 
-world="World"
-echo "Welcome, $world"
+echo "Welcome world"
