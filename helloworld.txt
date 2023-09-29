@@ -1,3 +1,4 @@
 #!/usr/bin/bash
 
-echo "Welcome world"
+echo "This is another string!"
+
